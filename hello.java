@@ -1,8 +1,8 @@
-class hello
+class hello-wind
 {
-	void main()
+	void main() #wind-user
 	{
 		system.out.println("hello from lin dev");
 	}
 
-}
+} #EOF
