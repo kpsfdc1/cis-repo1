@@ -1,8 +1,8 @@
-class hello
+class hello-lin
 {
-	void main()
+	void main()	#lin user
 	{
-		system.out.println("hello from lin dev");
+		system.out.println("hello from lin user");
 	}
 
 }
