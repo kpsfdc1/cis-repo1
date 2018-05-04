@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class hello-wind
 {
 	void main() #wind-user
